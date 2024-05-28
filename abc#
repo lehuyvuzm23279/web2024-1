@@ -1,1 +1,17 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>アンカータグの練習</title>
+</head>
+<body>
+<p>アンカータグの練習です。</p>
+  <li>ほにゃらら</li>
+</ol>
+ <a id="abc">ここがabcの場所</a>
+ <dl>
+   <dt>作者</dt>
 
+  
+</body>
+</html>
